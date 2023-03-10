@@ -1,9 +1,9 @@
 # Tableau-Comparative-Study-of-Countries
 Project Tableau Dashboard [Tableau Public Link](https://public.tableau.com/app/profile/marcus.hendricks/viz/ComparativeStudyofCountriesbyMarcusHendricks/ComparativeStudyofCountries?publish=yes)
-# Project Description
-Created a dashboard to compare parameters such as income, life insurance share, market share, penetration, ratio of reinsurance accepted, and retention ratio for different countries, to strategize market penetration and to target new customers.
 
+# Project Description
   * Created a dashboard to compare parameters such as income, life insurance share, market share, penetration, ratio of reinsurance accepted, and retention ratio for different countries, to strategize market penetration and to target new customers.
+
 # Process
 Primary Dataset – Insurance Sample Dataset
 
